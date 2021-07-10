@@ -13,4 +13,4 @@ Run `lane_detection.py`. The default video is project_video, if you want to proc
 
 ## Demo Image
 
-![image](https://github.com/nimadorostkar/realtime_lane_detection/blob/master/demo.jpg)
+![image](https://github.com/nimadorostkar/realtime_lane_detection/blob/master/demo_img.jpg)
